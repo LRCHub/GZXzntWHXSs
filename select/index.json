@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢(Instrumental ver.)",
+  "base_artist": "HIKAKIN & SEIKIN",
+  "createdAt": "2026-01-07T03:28:21.681012Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢",
+      "artist": "HIKAKIN & SEIKIN",
+      "has_synced": false,
+      "path": "select/pl_01_夢_HIKAKIN_&_SEIKIN.txt"
+    }
+  ]
+}
